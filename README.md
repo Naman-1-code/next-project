@@ -1,2 +1,2 @@
 # next-project
-infomation about new project
+infomation about new project.
